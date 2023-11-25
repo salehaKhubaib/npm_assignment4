@@ -1,0 +1,22 @@
+{
+  "name": "is-saleha",
+  "version": "1.0.0",
+  "description": "is this the one for saleha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salehaKhubaib/npm_assignment4.git"
+  },
+  "keywords": [
+    "SALEHA"
+  ],
+  "author": "Saleha Khubaib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salehaKhubaib/npm_assignment4/issues"
+  },
+  "homepage": "https://github.com/salehaKhubaib/npm_assignment4#readme"
+}
